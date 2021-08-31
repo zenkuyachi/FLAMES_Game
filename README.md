@@ -1,3 +1,6 @@
+# Introduction
+This is my personal and simple programs i created using C.
+
 # Contents
 <ul>
   <li>Guessing Game - Guess the exact number.</li> 
@@ -6,8 +9,12 @@
 </ul>
 
 # Build Guide
+On your terminal/shell, type the following:
 
 <code>gcc programs.c -o programs</code>
 
+then run: 
+
 Windows: <code>programs.exe</code>
+
 Linux: <code>./programs</code>
