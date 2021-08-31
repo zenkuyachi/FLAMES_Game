@@ -5,7 +5,7 @@ This is my personal and simple programs i created using C.
 <ul>
   <li>Guessing Game - Guess the exact number.</li> 
   <li>FizzBuzz - My fizz buzz implementation.</li>
-  <li>Table Generator - Generate square shape based on width and height.</li>
+  <li>Table Generator - Generate square shape based on width and height input.</li>
 </ul>
 
 # Build Guide
